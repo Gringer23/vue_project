@@ -81,6 +81,7 @@ data(){
         display:flex;
         flex-wrap: wrap;
         max-width: 1440px;
+        margin 0;
     }
 
 
